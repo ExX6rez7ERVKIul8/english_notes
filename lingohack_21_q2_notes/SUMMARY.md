@@ -5,6 +5,7 @@
 * [Brexit Flowers](210414_brexit_flowers.md)
 * [Ocean Creatures](210421_ocean_creatures.md)
 * [Notre Dame](210428_notre_dame.md)
+* [White Paint](210505_white_paint.md)
 * [Future Office](210512_future_office.md)
 * [Dark Sky Reserves](210519_dark_sky_reserves.md)
 * [90s Children](210526_90s_children.md)
