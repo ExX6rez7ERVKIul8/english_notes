@@ -45,6 +45,8 @@ the activity of travelling while carrying your clothes and other things that you
 
 /jɒt/
 
+a boat with sails and sometimes an engine, used for either racing or travelling on for pleasure: 
+
 * They spent their annual holiday on a chartered yacht in the Caribbean.
 * He spent three days adrift on his yacht.
 
