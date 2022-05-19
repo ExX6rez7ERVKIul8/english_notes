@@ -59,10 +59,9 @@ a tall pole on a boat or ship that supports its sails
 
 /stɜːn/
 
-severe, or showing disapproval:
+the back part of a ship or boat:
 
-* She is her own sternest critic.
-* Journalists received a stern warning not to go anywhere near the battleship.
+* The Red Ensign, the flag of the British Merchant Navy, is rarely seen these days except on the sterns of a few cruise liners and cross-Channel ferries.
 
 **gallery**
 
@@ -88,7 +87,7 @@ a small sail in the shape of a triangle, positioned in front of the main sail on
 
 /buːm/
 
-a deep and loud hollow sound
+(on a boat) a long pole that moves and that has a sail fastened to it
 
 **drown**
 
