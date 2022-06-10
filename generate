@@ -1,2 +1,3 @@
-gitbook mobi lingohack_21_q2_notes _book/lingohack_21_q2_notes.mobi
-gitbook mobi lingohack_21_q3_notes _book/lingohack_21_q3_notes.mobi
+mkdir -p _book;
+gitbook mobi lingohack_21_q2_notes _book/lingohack_21_q2_notes.mobi;
+gitbook mobi lingohack_21_q3_notes _book/lingohack_21_q3_notes.mobi;
