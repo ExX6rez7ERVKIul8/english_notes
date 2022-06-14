@@ -59,3 +59,32 @@ a poisonous substance, especially one produced by bacteria, that causes disease
 
 very simple, usually small plants that grow in or near water and do not have ordinary leaves or roots
 
+** plankton **
+
+/ˈplæŋk.tən/
+
+very small plants and animals that float on the surface of the sea and on which other sea animals feed
+
+** work your way up **
+
+to achieve a better position within the organization you work for:
+
+* She quickly worked her way up to vice president.
+
+** barometer **
+
+/bəˈrɒm.ɪ.tər/
+
+something that is a sign of how a particular situation is developing, or how people's opinions on a particular matter are changing: 
+
+* The Philippine Stock Exchange composite index is a group of 30 companies that is the market's main barometer.
+* The sales of this retail chain are seen as a barometer for consumer confidence across the country.
+
+** unprecedented **
+
+/ʌnˈpres.ɪ.den.tɪd/ 
+
+never having happened or existed in the past:
+
+* This century has witnessed environmental destruction on an unprecedented scale.
+* She took the unprecedented step of revealing the truth about the situation.
